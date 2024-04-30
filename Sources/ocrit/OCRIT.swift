@@ -40,7 +40,7 @@ struct ocrit: AsyncParsableCommand {
 
         let imageURLs = imagePaths.map(URL.init(fileUrlWithTildePath:))
         
-        fputs("Validating images…\n", stderr)
+        //fputs("Validating images…\n", stderr)
 
         var operationType: OCROperation.Type = ImageOCROperation.self
 
@@ -66,15 +66,15 @@ struct ocrit: AsyncParsableCommand {
             fputs("WARN: \(error.localizedDescription)\n", stderr)
         }
         
-        if language.isEmpty {
-            fputs("Performing OCR…\n", stderr)
-        } else {
-            if language.count == 1 {
-                fputs("Performing OCR with language: \(language[0])…\n", stderr)
-            } else {
-                fputs("Performing OCR with languages: \(language.joined(separator: ", "))…\n", stderr)
-            }
-        }
+//        if language.isEmpty {
+//            //fputs("Performing OCR…\n", stderr)
+//        } else {
+//            if language.count == 1 {
+//                fputs("Performing OCR with language: \(language[0])…\n", stderr)
+//            } else {
+//                fputs("Performing OCR with languages: \(language.joined(separator: ", "))…\n", stderr)
+//            }
+//        }
         
         for url in imageURLs {
             let operation = operationType.init(fileURL: url, customLanguages: language)

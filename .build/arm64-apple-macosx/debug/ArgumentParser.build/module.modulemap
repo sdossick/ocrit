@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/debug/ArgumentParser.build/ArgumentParser-Swift.h"
+    requires objc
+}

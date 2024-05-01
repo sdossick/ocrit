@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "1ccb9b565680ea6b937258d425fabf18c0b6f2598201193800263e3690301312"
+build_start_time: [1714504611, 175056000]
+build_end_time: [1714504611, 864393000]
+inputs:
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift"
+  : [1713406627, 163281983]

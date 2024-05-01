@@ -1,0 +1,83 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "b018b624c83cf4fadccbb8f9a6726127ad883518b67ef10b0b23a04b2a0f5aaf"
+build_start_time: [1714504611, 917938000]
+build_end_time: [1714504618, 439246000]
+inputs:
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+  : [1713406627, 154320820]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+  : [1713406627, 154541361]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+  : [1713406627, 154636902]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+  : [1713406627, 154706068]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+  : [1713406627, 159256670]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+  : [1713406627, 159335920]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentVisibility.swift"
+  : [1713406627, 159402878]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+  : [1713406627, 159474544]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+  : [1713406627, 159659168]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+  : [1713406627, 159776293]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+  : [1713406627, 159865584]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+  : [1713406627, 160063458]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+  : [1713406627, 160145041]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/AsyncParsableCommand.swift"
+  : [1713406627, 160250624]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+  : [1713406627, 160333498]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+  : [1713406627, 160399790]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+  : [1713406627, 160466664]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+  : [1713406627, 160556206]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift"
+  : [1713406627, 160642497]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+  : [1713406627, 160896287]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+  : [1713406627, 161011453]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+  : [1713406627, 161127911]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift"
+  : [1713406627, 161252410]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift"
+  : [1713406627, 161379201]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift"
+  : [1713406627, 161446326]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift"
+  : [1713406627, 161513826]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift"
+  : [1713406627, 161710950]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift"
+  : [1713406627, 161782991]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift"
+  : [1713406627, 161850157]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift"
+  : [1713406627, 161970823]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift"
+  : [1713406627, 162098364]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift"
+  : [1713406627, 162173656]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift"
+  : [1713406627, 162309405]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift"
+  : [1713406627, 162381863]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift"
+  : [1713406627, 162502862]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/CollectionExtensions.swift"
+  : [1713406627, 162631320]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+  : [1713406627, 162694945]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+  : [1713406627, 162772111]
+  ? "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift"
+  : [1713406627, 162844236]

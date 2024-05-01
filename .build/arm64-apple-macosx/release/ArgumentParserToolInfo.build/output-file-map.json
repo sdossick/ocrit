@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/ArgumentParserToolInfo.d",
+    "object": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/ArgumentParserToolInfo.o",
+    "swift-dependencies": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/master.swiftdeps"
+  },
+  "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "object": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/s.mcintyre/Dropbox/Personal/Projects/tacita/ocrtest/ocrit/.build/arm64-apple-macosx/release/ArgumentParserToolInfo.build/ToolInfo.swiftdeps"
+  }
+}

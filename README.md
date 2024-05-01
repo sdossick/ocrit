@@ -43,3 +43,21 @@ This is the current list of supported languages as of macOS 14.4, with the `--fa
 ```
 en-US, fr-FR, it-IT, de-DE, es-ES, pt-BR
 ```
+
+
+## Building
+Build a release version of the project with the following command:
+```
+swift build -c release
+```
+
+Build and view the path:
+```
+swift build --show-bin-path
+```
+
+Run the executable:
+```
+swift run
+```
+
